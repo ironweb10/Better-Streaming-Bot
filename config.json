@@ -1,0 +1,16 @@
+{
+    "token": "",
+    "server": {
+        "id": "",
+        "channel": ""
+    },
+    "stream": {
+        "sources": [],
+        "quality": {
+            "width": 1280,
+            "height": 720,
+            "fps": 25,
+            "bitrate": 1800
+        }
+    }
+}
